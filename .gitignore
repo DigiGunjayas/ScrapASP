@@ -1,0 +1,14 @@
+# Node JS Stuffs
+dist
+node_modules
+wwwroot
+pnpm-lock.yaml
+
+# Environment variables but allow our sample
+.env
+*.env
+!api.env
+createDatabase.sql
+removeDatabase.sql
+
+copilot-instructions.md

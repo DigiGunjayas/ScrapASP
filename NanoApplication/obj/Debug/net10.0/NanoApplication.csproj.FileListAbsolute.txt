@@ -1,0 +1,14 @@
+D:\Projects\NanoApplication\NanoApplication\bin\Debug\net10.0\NanoApplication.exe
+D:\Projects\NanoApplication\NanoApplication\bin\Debug\net10.0\NanoApplication.deps.json
+D:\Projects\NanoApplication\NanoApplication\bin\Debug\net10.0\NanoApplication.runtimeconfig.json
+D:\Projects\NanoApplication\NanoApplication\bin\Debug\net10.0\NanoApplication.dll
+D:\Projects\NanoApplication\NanoApplication\bin\Debug\net10.0\NanoApplication.pdb
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.AssemblyInfoInputs.cache
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.AssemblyInfo.cs
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.csproj.CoreCompileInputs.cache
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.dll
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\refint\NanoApplication.dll
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.pdb
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.genruntimeconfig.cache
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\ref\NanoApplication.dll
