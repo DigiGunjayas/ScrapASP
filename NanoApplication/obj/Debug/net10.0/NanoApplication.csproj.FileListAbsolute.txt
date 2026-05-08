@@ -12,3 +12,4 @@ D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\refint\NanoApplica
 D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.pdb
 D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.genruntimeconfig.cache
 D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\ref\NanoApplication.dll
+D:\Projects\NanoApplication\NanoApplication\obj\Debug\net10.0\NanoApplication.sourcelink.json
