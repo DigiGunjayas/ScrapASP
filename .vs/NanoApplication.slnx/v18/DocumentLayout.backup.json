@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Projects\\NanoApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FEE60C0-04FE-00EF-A359-49B568A0F133}|NanoApplication\\NanoApplication.csproj|d:\\projects\\nanoapplication\\nanoapplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE60C0-04FE-00EF-A359-49B568A0F133}|NanoApplication\\NanoApplication.csproj|solutionrelative:nanoapplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FEE60C0-04FE-00EF-A359-49B568A0F133}|NanoApplication\\NanoApplication.csproj|d:\\projects\\nanoapplication\\nanoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEE60C0-04FE-00EF-A359-49B568A0F133}|NanoApplication\\NanoApplication.csproj|solutionrelative:nanoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Projects\\NanoApplication\\NanoApplication\\Class1.cs",
-              "RelativeDocumentMoniker": "NanoApplication\\Class1.cs",
-              "ToolTip": "D:\\Projects\\NanoApplication\\NanoApplication\\Class1.cs*",
-              "RelativeToolTip": "NanoApplication\\Class1.cs*",
-              "ViewState": "AgIAAAwBAAAAAAAAAAAIwBoBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T14:36:32.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\NanoApplication\\NanoApplication\\Program.cs",
               "RelativeDocumentMoniker": "NanoApplication\\Program.cs",
               "ToolTip": "D:\\Projects\\NanoApplication\\NanoApplication\\Program.cs",
               "RelativeToolTip": "NanoApplication\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAswEMAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T08:53:14.698Z",
               "EditorCaption": ""
